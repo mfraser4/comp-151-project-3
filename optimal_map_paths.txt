@@ -1,0 +1,40 @@
+Results for map/map1.txt
+------------------------
+    Path:
+        C -> D -> B -> A
+    Length: 6
+
+
+Results for map/map2.txt
+------------------------
+    Path:
+        B -> A -> C -> D -> E
+    Length: 11
+
+
+Results for map/map3.txt
+------------------------
+    Path:
+        D -> A -> E -> B -> C
+    Length: 65
+
+
+Results for map/map4.txt
+------------------------
+    Path:
+        E -> H -> B -> C -> F -> G -> A -> D
+    Length: 159
+
+
+Results for map/map5.txt
+------------------------
+    Path:
+        F -> B -> H -> C -> E -> I -> A -> D -> J -> G
+    Length: 184
+
+
+Results for map/map6.txt
+------------------------
+    Path:
+        P -> M -> W -> N -> G -> B -> X -> E -> I -> K -> J -> Z -> F -> H -> L -> Y -> R -> S -> U -> V -> C -> T -> O -> A -> D -> Q
+    Length: 592
