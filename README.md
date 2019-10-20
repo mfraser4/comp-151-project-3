@@ -116,8 +116,8 @@ program, pipe the output to a file to make it easier to sift through results.
 
 ## Optimal Parameters
 
-The following configuration on my machine has proven to be one of the best
-configurations for finding a near-optimal solution.  It is difficult to
+The following configuration on the developer's machine has proven to be one of
+the best configurations for finding a near-optimal solution.  It is difficult to
 find one true configuration that solves all optimally without taking an
 excessive amount of time to run, as a graph's layout can change the
 effectiveness of a configuration.
